@@ -1,13 +1,13 @@
-## nodejs-package
+## Difference calculator
 
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/9c7351f15aed1d55a077/maintainability)](https://codeclimate.com/github/DVR2210/frontend-project-46/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/9c7351f15aed1d55a077/maintainability)](https://codeclimate.com/github/mikitasazan/frontend-project-46/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/9c7351f15aed1d55a077/test_coverage)](https://codeclimate.com/github/DVR2210/frontend-project-46/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/9c7351f15aed1d55a077/test_coverage)](https://codeclimate.com/github/mikitasazan/frontend-project-46/test_coverage)
 
 
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/DVR2210/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/DVR2210/frontend-project-46/actions)
+[![Actions Status](https://github.com/mikitasazan/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/mikitasazan/frontend-project-46/actions)
 
 ### NAME
 
@@ -78,10 +78,10 @@
 ### HOW TO INSTALL:
 
       # clone this repository on your machine with SSH key
-      $git clone git@github.com:PShorin/frontend-project-46.git
+      $ git clone git@github.com:mikitasazan/frontend-project-46.git
 
       #go to directory where you downloaded it
-      $cd directory-name
+      $ cd frontend-project-46
 
       # run the one of these command to install all necessary dependencies
       $make install
@@ -91,10 +91,10 @@
       # this command is responsible for linking commands from package.json to "./bin" directory
       $npm link
 
-      # run utility
+      # run the utility
       $ gendiff <filepath1> <filepath2>
 
-      # run help 
+      # show help
       $ gendiff -h     
 
 ### LAUNCH EXAMPLE
@@ -110,5 +110,4 @@
 
 4. Difference calculation between two YAML files, format json.
 [![asciicast](https://asciinema.org/a/BOigaftHcSpwUXlJZgS0xt9IP.svg)](https://asciinema.org/a/BOigaftHcSpwUXlJZgS0xt9IP)
-
 
